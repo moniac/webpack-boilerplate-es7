@@ -1,7 +1,9 @@
-# webpack-boilerplate-es7
+# webpack-boilerplate-es8
 
 # yarn install
 
-# yarn run dev-server
+# To run
+```yarn run dev-server```
 
-# hope it works
+# To build
+```yarn run build```
